@@ -1,0 +1,11 @@
+D:\УНИВЕР\Lab1-Horbulia\bin\Debug\Lab1-Horbulia.exe.config
+D:\УНИВЕР\Lab1-Horbulia\bin\Debug\Lab1-Horbulia.exe
+D:\УНИВЕР\Lab1-Horbulia\bin\Debug\Lab1-Horbulia.pdb
+D:\УНИВЕР\Lab1-Horbulia\obj\Debug\Lab1-Horbulia.csproj.AssemblyReference.cache
+D:\УНИВЕР\Lab1-Horbulia\obj\Debug\Lab1-Horbulia.csproj.SuggestedBindingRedirects.cache
+D:\УНИВЕР\Lab1-Horbulia\obj\Debug\Lab1_Horbulia.Properties.Resources.resources
+D:\УНИВЕР\Lab1-Horbulia\obj\Debug\Lab1-Horbulia.csproj.GenerateResource.cache
+D:\УНИВЕР\Lab1-Horbulia\obj\Debug\Lab1-Horbulia.csproj.CoreCompileInputs.cache
+D:\УНИВЕР\Lab1-Horbulia\obj\Debug\Lab1-Horbulia.exe
+D:\УНИВЕР\Lab1-Horbulia\obj\Debug\Lab1-Horbulia.pdb
+D:\УНИВЕР\Lab1-Horbulia\obj\Debug\Lab1_Horbulia.Lab1.resources
