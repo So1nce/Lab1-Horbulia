@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Lab1_Horbulia
 {
-    internal class CShape
+    internal class CEmblem
     {
         const int DefaultRadius = 50;
         
@@ -29,10 +29,8 @@ namespace Lab1_Horbulia
                 _radius = value <= 5 ? 5 : value;
             }
         }
-        
 
-
-        public CShape(Graphics graphics, int X, int Y)
+        public CEmblem(Graphics graphics, int X, int Y)
         {
             this.graphics = graphics;
             this.X = X;
@@ -40,7 +38,7 @@ namespace Lab1_Horbulia
             this.Radius = DefaultRadius;
         }
 
-        public CShape(Graphics graphics, int X, int Y, int Radius)
+        public CEmblem(Graphics graphics, int X, int Y, int Radius)
         {
             this.graphics = graphics;
             this.X = X;
@@ -61,7 +59,6 @@ namespace Lab1_Horbulia
             Rectangle rectangle2 = new Rectangle(squareX, squareY, squareSize, squareSize);
             graphics.DrawRectangle(pen, rectangle2);
         }
-
 
         public void Show()
         {

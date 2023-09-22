@@ -33,7 +33,7 @@
             this.btnHide = new System.Windows.Forms.Button();
             this.btnCreateNew = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
-            this.cbShape = new System.Windows.Forms.ComboBox();
+            this.cbEmblem = new System.Windows.Forms.ComboBox();
             this.btnLeft = new System.Windows.Forms.Button();
             this.btnDownFar = new System.Windows.Forms.Button();
             this.btnCollapse = new System.Windows.Forms.Button();
@@ -106,15 +106,15 @@
             this.label1.TabIndex = 3;
             this.label1.Text = "Перелік об\'єктів:";
             // 
-            // cbShape
+            // cbEmblem
             // 
-            this.cbShape.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.cbShape.FormattingEnabled = true;
-            this.cbShape.Location = new System.Drawing.Point(49, 95);
-            this.cbShape.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.cbShape.Name = "cbShape";
-            this.cbShape.Size = new System.Drawing.Size(275, 28);
-            this.cbShape.TabIndex = 4;
+            this.cbEmblem.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cbEmblem.FormattingEnabled = true;
+            this.cbEmblem.Location = new System.Drawing.Point(49, 95);
+            this.cbEmblem.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.cbEmblem.Name = "cbEmblem";
+            this.cbEmblem.Size = new System.Drawing.Size(275, 28);
+            this.cbEmblem.TabIndex = 4;
             // 
             // btnLeft
             // 
@@ -228,7 +228,7 @@
             this.pnTools.Controls.Add(this.btnCollapse);
             this.pnTools.Controls.Add(this.btnDownFar);
             this.pnTools.Controls.Add(this.btnLeft);
-            this.pnTools.Controls.Add(this.cbShape);
+            this.pnTools.Controls.Add(this.cbEmblem);
             this.pnTools.Controls.Add(this.label1);
             this.pnTools.Controls.Add(this.btnCreateNew);
             this.pnTools.Controls.Add(this.btnHide);
@@ -265,7 +265,7 @@
         private System.Windows.Forms.Button btnHide;
         private System.Windows.Forms.Button btnCreateNew;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.ComboBox cbShape;
+        private System.Windows.Forms.ComboBox cbEmblem;
         private System.Windows.Forms.Button btnLeft;
         private System.Windows.Forms.Button btnDownFar;
         private System.Windows.Forms.Button btnCollapse;
